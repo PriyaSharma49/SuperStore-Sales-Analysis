@@ -15,18 +15,6 @@ This project focuses on analyzing historical SuperStore sales data to identify s
 - Time-series sales trend analysis
 - 15-day sales forecasting
 
-## 📷 Dashboard Preview
-Below are preview images of the Power BI dashboard highlighting overall sales performance and future sales forecasting.
-
-## 📷 Dashboard Preview
-Below are preview images of the Power BI dashboard highlighting sales performance and forecasting.
-
-![Sales Overview](Screenshots/overview.png)
-![Sales Forecast](Screenshots/forecast.png)
-
-## 📄 Full Dashboard Report
-➡️ [Download Power BI Dashboard (PDF)](Screenshots/SuperStore_Sales_Dashboard.pdf)
-
 ## 📂 Dataset
 SuperStore Sales Dataset (CSV format)
 
