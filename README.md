@@ -18,14 +18,14 @@ This project focuses on analyzing historical SuperStore sales data to identify s
 ## 📷 Dashboard Preview
 Below are preview images of the Power BI dashboard highlighting overall sales performance and future sales forecasting.
 
+## 📷 Dashboard Preview
+Below are preview images of the Power BI dashboard highlighting sales performance and forecasting.
+
 ![Sales Overview](Screenshots/overview.png)
 ![Sales Forecast](Screenshots/forecast.png)
 
 ## 📄 Full Dashboard Report
-You can view the complete Power BI dashboard by downloading the PDF report below:
-
-➡️ [Download Power BI Dashboard (PDF)](Dashboard/SuperStore_Sales_Dashboard.pdf)
-
+➡️ [Download Power BI Dashboard (PDF)](Screenshots/SuperStore_Sales_Dashboard.pdf)
 
 ## 📂 Dataset
 SuperStore Sales Dataset (CSV format)
